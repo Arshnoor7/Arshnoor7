@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshnoor7&label=Profile%20views&color=0e75b6&style=flat" alt="arshnoor7" /> </p>
 <h2>About Me💻</h2>
 <ul type="none">
-    <li>🎓Pursuing my <strong>Bachelor's in Computer Engineering</strong></li>
+    <li>🎓Pursuing my <strong>Bachelor's in Computer Science and Engineering</strong></li>
     <li>💬Ask me about <strong>C, C++, Python</strong></li>
     <li>🌱Honing my skills in <strong>Machine Learning, Web Development</strong>
     <li>📫 Reach me  at <strong>arshnoor7389@gmail.com</strong></li>
